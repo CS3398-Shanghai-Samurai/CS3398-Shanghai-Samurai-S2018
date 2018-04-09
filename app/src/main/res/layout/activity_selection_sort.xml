@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.puppetmaster123.devlop_browse.SelectionSortAct">
+
+
+    <TextView
+            android:id="@+id/textView6"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-344dp"
+            android:text='The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.\n \n
+              1) The subarray which is already sorted. \n 2) Remaining subarray which is unsorted. \n\n
+               In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray
+               .\n'
+            tools:layout_editor_absoluteX="14dp"
+            tools:layout_editor_absoluteY="129dp" />
+
+    <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="344dp"
+            android:layout_marginEnd="255dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="255dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="50dp"
+            android:text="Selection Sort"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="visible"
+             />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView6"
+            android:layout_centerHorizontal="true"
+            android:onClick="goToCode"
+            android:text="See the Code!"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+
