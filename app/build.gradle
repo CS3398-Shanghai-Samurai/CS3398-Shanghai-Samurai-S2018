@@ -2,6 +2,9 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
+    lintOptions {
+          abortOnError false
+     }
     defaultConfig {
         applicationId "com.example.puppetmaster123.devlop_browse"
         minSdkVersion 15
