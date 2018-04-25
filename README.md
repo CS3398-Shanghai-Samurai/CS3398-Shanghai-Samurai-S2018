@@ -12,6 +12,7 @@
 
 * [AndroidStudio](https://developer.android.com) - Povides the fastest tools for building apps on every type of Android device.
 * [Firebase](https://firebase.google.com) - For realtime database and Authenticating users simply and securely.
+* [Travis CI](https://travis-ci.org) - Continuous Integration service used to build and test the project
 
 
 #### Authors
