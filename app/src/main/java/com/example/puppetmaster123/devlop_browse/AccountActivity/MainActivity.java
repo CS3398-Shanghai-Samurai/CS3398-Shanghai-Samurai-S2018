@@ -165,11 +165,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @SuppressLint("SetTextI18n")
-    private void setDataToView(FirebaseUser user) {
-
+    private void setDataToView(FirebaseUser user)
+    {
         email.setText("Welcome: " + user.getEmail());
-
-
     }
 
     // this listener will be called when there is change in firebase user session

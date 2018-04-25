@@ -72,8 +72,6 @@ public class Contact extends AppCompatActivity {
 
                 /* Send it off to the Activity-Chooser */
                 startActivity(Intent.createChooser(sendEmail, "Send mail..."));
-
-
             }
         });
     }
@@ -109,6 +107,4 @@ public class Contact extends AppCompatActivity {
         Matcher matcher = pattern.matcher(email);
         return matcher.matches();
     }
-
-
 }

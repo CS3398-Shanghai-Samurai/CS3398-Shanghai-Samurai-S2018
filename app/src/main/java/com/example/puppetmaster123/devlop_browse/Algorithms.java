@@ -28,8 +28,6 @@ public class Algorithms {
     public void setCatagory(String catagory) {
         Catagory = catagory;
     }
-
-
 }
 
 
