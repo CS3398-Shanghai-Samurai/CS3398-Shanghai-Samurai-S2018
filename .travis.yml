@@ -59,4 +59,4 @@ before_install:
 
 branches:
         only:
-                - Josh
+                - master
