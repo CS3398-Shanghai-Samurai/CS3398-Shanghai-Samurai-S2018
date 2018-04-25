@@ -1,11 +1,18 @@
 # CS3398-Shanghai-Samurai-S2018
 
+
+
+## Sprint 2
+
 -Implemented contact us page for support for the app
 
--Implemented Login page for the app
+## Sprint 3
 
--Implemented sign up page for new user
+### Implemented using Google Firebase
+-`Implemented Login page for the app`
 
--Implemented forgot password for the user
+-`Implemented sign up page for new user`
 
--Created logo for the app Code Companion 
+-`Implemented forgot password for the user`
+
+-`Created logo for the app Code Companion `
