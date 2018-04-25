@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630146382607",
+    "firebase_url": "https://codecompanion-302bd.firebaseio.com",
+    "project_id": "codecompanion-302bd",
+    "storage_bucket": "codecompanion-302bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630146382607:android:9e0009f88f9ab54b",
+        "android_client_info": {
+          "package_name": "com.example.puppetmaster123.devlop_browse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630146382607-a0k9g8oal0kdg6f67us2qisthu2boe1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUPVXeUt6UyGjvAkAfQuRxhLmKkgq7YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

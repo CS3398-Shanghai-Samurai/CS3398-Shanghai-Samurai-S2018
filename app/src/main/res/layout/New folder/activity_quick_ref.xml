@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.puppetmaster123.devlop_browse.QuickRefActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="299dp"
+        android:layout_height="358dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="jfdgodjfoigjoidfjgoijdofigjodfjg;shdf;nbg;jsdf;i;g;isjdfi;jg;isdjfgoisjdf;ogijs;iodfjgn;jnf;ghsoidfjgoijdf;gh;siodfhng;onhsdf;iohg;oishdf;oiguh"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="99dp" />
+</android.support.constraint.ConstraintLayout>
